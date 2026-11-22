@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TAMZORYA GAMING — Play • Compete • Win</title>
+<meta name="description" content="Plateforme de compétitions gaming en RDC et en Afrique : réservations, résultats, classements.">
+<meta name="theme-color" content="#050A18">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.ico"><link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta property="og:title" content="TAMZORYA GAMING"><meta property="og:image" content="og-image.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="offline" class="offline" hidden>Vous êtes hors ligne : certaines données peuvent être indisponibles.</div>
+<header class="top"><div class="wrap bar">
+  <a href="#/" class="brand"><img src="icons/icon-96.png" alt="" width="40" height="40"><span>TAMZORYA <b>GAMING</b></span></a>
+  <nav id="nav" class="nav">
+    <a href="#/competitions">Compétitions</a><a href="#/vs">VS DU JOUR</a><a href="#/rankings">Classements</a><a href="#/road">Grand Tournoi</a><a href="#/partners">Partenaires</a>
+    <span id="authbox" class="authbox"></span>
+  </nav>
+  <button id="burger" class="btn ghost burger" aria-label="Menu">☰</button>
+</div></header>
+<main id="app" class="wrap"></main>
+<footer class="foot"><div class="wrap grid3">
+  <div><b>TAMZORYA GAMING</b><p class="muted">Play • Compete • Win<br>[Informations légales et coordonnées officielles à compléter]</p></div>
+  <div><b>Plateforme</b><p><a href="#/competitions">Compétitions</a><br><a href="#/rankings">Classements</a><br><a href="#/road">Road to Grand Tournament</a><br><a href="#/partners">Partenaires</a></p></div>
+  <div><b>Documents</b><p><a href="#/legal/reglement-general">Règlement général</a><br><a href="#/legal/conditions-utilisation">Conditions d'utilisation</a><br><a href="#/legal/conditions-joueurs">Conditions joueurs</a><br><a href="#/legal/conditions-partenaires">Conditions partenaires</a><br><a href="#/legal/reglement-competitions">Règlement des compétitions</a><br><a href="#/legal/confidentialite">Confidentialité</a><br><a href="#/legal/cookies">Cookies</a></p></div>
+</div><p class="center muted small">© TAMZORYA GAMING</p></footer>
+<div id="toast" class="toast" hidden></div>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="js/config.js"></script><script src="js/legal.js"></script><script src="js/core.js"></script>
+<script src="js/public.js"></script><script src="js/spaces.js"></script><script src="js/admin.js"></script><script src="js/boot.js"></script>
+</body></html>
