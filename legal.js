@@ -9,7 +9,7 @@ window.LEGAL_DOCS = [
     ['Article 4 — Règles applicables aux joueurs', "Les joueurs respectent les horaires, les adversaires, les arbitres, les organisateurs et le règlement particulier de chaque compétition."],
     ['Article 5 — Réservation et confirmation', "Une réservation en ligne n'est pas une inscription définitive. Le joueur devient participant confirmé uniquement après validation de son paiement par une personne autorisée."],
     ['Article 6 — Paiement physique au guichet', "Le paiement s'effectue au guichet de la salle organisatrice. Il n'est jamais automatique et est confirmé manuellement par un responsable autorisé, dont l'identité est enregistrée."],
-    ['Article 7 — Annulation et remboursement', "Les conditions d'annulation et de remboursement sont précisées pour chaque compétition. [À compléter]"],
+    ['Article 7 — Annulation et remboursement', "Les conditions d'annulation et de remboursement sont précisées pour chaque compétition. "],
     ['Article 8 — Déroulement des compétitions', "Le format, la durée et les règles du jeu sont définis dans le règlement particulier de chaque compétition."],
     ['Article 9 — Tricherie, fraude et comportements interdits', "Toute tricherie, fraude, usurpation d'identité ou manipulation de résultat est interdite et sanctionnée (disqualification, suspension, exclusion)."],
     ['Article 10 — Classements et points', "Les points sont attribués uniquement après validation officielle des résultats. Le barème est configurable et public. Toute correction est tracée."],
@@ -26,18 +26,18 @@ window.LEGAL_DOCS = [
     ['Objet', "Les présentes conditions encadrent l'accès et l'usage de la plateforme TAMZORYA GAMING."],
     ['Accès et sécurité', "L'utilisateur s'engage à ne pas perturber le service ni tenter d'accéder à des données non autorisées."],
     ['Propriété intellectuelle', "Les marques, logos et contenus de TAMZORYA GAMING restent sa propriété. KING ARENA désigne une compétition et GAMES CITY un partenaire : ce ne sont pas des noms de l'entreprise."],
-    ['Contact', '[À compléter]'],
+    ['Contact', '+243 97779082'],
   ] },
   { slug: 'conditions-joueurs', title: 'Conditions spécifiques aux joueurs', version: 1, articles: [
     ["Inscription et réservation", "Conditions d'inscription, de réservation, paiement au guichet et confirmation définitive de participation."],
     ['Comportement', "Respect des horaires, des adversaires, des arbitres et des organisateurs ; interdiction de tricher."],
-    ['Annulation, litiges et récompenses', "Conditions d'annulation, gestion des litiges, attribution des récompenses et usage personnel du compte. [À compléter]"],
+    ['Annulation, litiges et récompenses', "Conditions d'annulation, gestion des litiges, attribution des récompenses et usage personnel du compte. "],
   ] },
   { slug: 'conditions-partenaires', title: 'Conditions spécifiques aux partenaires', version: 1, articles: [
     ['Adhésion et accès', "Adhésion sur invitation, vérification de l'identité du partenaire, usage strictement personnel des accès et gestion des comptes du personnel."],
     ['Compétitions', "Toute compétition proposée doit être validée par TAMZORYA GAMING avant publication. Le partenaire ne publie jamais directement."],
     ['Réservations et paiements', "Gestion des réservations, confirmation des paiements au guichet par le personnel autorisé, transmission des résultats."],
-    ['Suspension ou résiliation', "TAMZORYA GAMING peut suspendre ou résilier le partenariat en cas de manquement. [À compléter]"],
+    ['Suspension ou résiliation', "TAMZORYA GAMING peut suspendre ou résilier le partenariat en cas de manquement, Fraude et autre cas ."],
   ] },
   { slug: 'reglement-competitions', title: 'Règlement particulier des compétitions', version: 1, articles: [
     ['Modèle', "Chaque compétition dispose de son propre règlement : conditions de participation, places, frais, récompenses, format, durée, règles du jeu, disqualification, égalités, contestations et publication des résultats."],
@@ -45,10 +45,10 @@ window.LEGAL_DOCS = [
   { slug: 'confidentialite', title: 'Politique de confidentialité', version: 1, articles: [
     ['Données collectées', "Identité et pseudo, e-mail, historique de réservations, de participations et de performances, acceptations des documents."],
     ['Finalités et utilisation', "Gestion des comptes, des compétitions, des classements, sécurité et communications (promotionnelles uniquement avec consentement séparé)."],
-    ['Accès, protection et conservation', "Accès limité selon les rôles ; protection par contrôle d'accès en base de données. Durées de conservation : [à définir]."],
+    ['Accès, protection et conservation', "Accès limité selon les rôles ; protection par contrôle d'accès en base de données. Durées de conservation :Pas encore défini."],
     ['Vos droits et contact', "Accès, rectification, suppression selon la loi applicable. Contact : [à compléter]. Ce document n'affirme aucune conformité légale avant vérification professionnelle."],
   ] },
   { slug: 'cookies', title: 'Politique relative aux cookies', version: 1, articles: [
-    ['Cookies', "La plateforme utilise le stockage local nécessaire à la session. Aucun traceur publicitaire n'est utilisé dans cette version. [À vérifier]"],
+    ['Cookies', "La plateforme utilise le stockage local nécessaire à la session. Aucun traceur publicitaire n'est utilisé dans cette version."],
   ] },
 ]
